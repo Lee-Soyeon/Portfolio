@@ -7,6 +7,7 @@
 * 학교 : 동덕여자대학교 컴퓨터학과 졸업 (2020년 2월)
 * 이메일 : leesoyena@gmail.com
 * Github : https://github.com/Lee-Soyeon/
+* Linkedin : www.linkedin.com/in/Lee-Soyeon
 
 ## 사용 기술
 
