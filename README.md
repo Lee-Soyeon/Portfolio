@@ -11,7 +11,7 @@
 
 ## 사용 기술
 
-* C, Java, Python, R, Javascript
+* C, Java, Python, R, Javascript, Kotlin
 * Spring, Node.js, Android Studio
 * Adobe XD, Sketch, Invision, Zeplin
 
